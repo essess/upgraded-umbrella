@@ -1,2 +1,3 @@
 # upgraded-umbrella
-logger module for purebasic
+
+A logger module for purebasic. Logs to either console or a file as desired.
